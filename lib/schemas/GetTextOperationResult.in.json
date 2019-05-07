@@ -1,0 +1,9 @@
+{
+    "type": "object",
+    "properties": {
+        "operationId": {
+            "required": true,
+            "type": "string"
+        }
+    }
+}
